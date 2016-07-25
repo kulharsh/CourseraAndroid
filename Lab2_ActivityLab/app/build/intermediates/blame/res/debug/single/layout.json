@@ -1,10 +1,18 @@
 [
     {
-        "merged": "E:\\myPersonalProjects\\AndroidCoursera\\Lab1\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one.xml",
-        "source": "E:\\myPersonalProjects\\AndroidCoursera\\Lab1\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_one.xml"
+        "merged": "E:\\myPersonalProjects\\AndroidCoursera\\MyProject\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one.xml",
+        "source": "E:\\myPersonalProjects\\AndroidCoursera\\MyProject\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_one.xml"
+    },
+    {
+        "merged": "E:\\myPersonalProjects\\AndroidCoursera\\MyProject\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
+        "source": "E:\\myPersonalProjects\\AndroidCoursera\\MyProject\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_two.xml"
     },
     {
         "merged": "E:\\myPersonalProjects\\AndroidCoursera\\Lab1\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_two.xml",
         "source": "E:\\myPersonalProjects\\AndroidCoursera\\Lab1\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "E:\\myPersonalProjects\\AndroidCoursera\\Lab1\\Lab2_ActivityLab\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_one.xml",
+        "source": "E:\\myPersonalProjects\\AndroidCoursera\\Lab1\\Lab2_ActivityLab\\app\\src\\main\\res\\layout\\activity_one.xml"
     }
 ]

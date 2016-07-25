@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="E:\myPersonalProjects\AndroidCoursera\Lab1\Lab2_ActivityLab\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\myPersonalProjects\AndroidCoursera\Lab1\Lab2_ActivityLab\app\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="E:\myPersonalProjects\AndroidCoursera\MyProject\Lab2_ActivityLab\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\myPersonalProjects\AndroidCoursera\MyProject\Lab2_ActivityLab\app\src\debug\assets"/></dataSet></merger>
